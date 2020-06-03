@@ -1,0 +1,19 @@
+{
+  "name": "form-practice",
+  "version": "1.0.0",
+  "description": "its in the title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devonnavon/form-practice.git"
+  },
+  "author": "dev and len",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devonnavon/form-practice/issues"
+  },
+  "homepage": "https://github.com/devonnavon/form-practice#readme"
+}
